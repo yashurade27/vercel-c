@@ -144,13 +144,3 @@ startServer().catch(error => {
 
 export default app;
 
-
-
-
-// const s3 = new S3({
-//     accessKeyId: "ba2d690de0da242a00198abbb8ed3743",
-//     secretAccessKey: "2f0da2d8d8753ad0d152a59fc66c4ef29160555193eac4e8f3533141f2b85132",
-//     endpoint: "https://6cc6157af6f7ab7778e2ad76923b8928.r2.cloudflarestorage.com",
-//     s3ForcePathStyle: true,
-//     signatureVersion: "v4"
-//   });
